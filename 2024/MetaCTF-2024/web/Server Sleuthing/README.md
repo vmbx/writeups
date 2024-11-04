@@ -23,7 +23,7 @@ This challenge involves using Burp Suite to uncover hidden server functionalitie
    - Compare responses from GET and POST requests.
    - Document any new functionalities or server responses.
 
-![Burp](https://github.com/x03ee/MetaCTF-WriteUps/blob/main/web/Server%20Sleuthing/images/Burp.PNG)
+![Burp](https://github.com/x03ee/CTF-Writeup/blob/main/2024/MetaCTF-2024/web/Server%20Sleuthing/images/Burp.PNG)
 
 ### Final Flag:
 ```
