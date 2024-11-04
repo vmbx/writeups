@@ -4,6 +4,6 @@ Everyone at the Haunted Brewery received a weird text message that deleted itsel
 What is the name of the malware that was most likely delivered to our phones? Flag format: HnH{flag}
 ```
 
-![image](https://github.com/x03ee/Hackers-N-Hops-2024/blob/main/Mitre/Strange%20SMS%20message/sp1.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/Hackers-N-Hops-2024/Mitre/Strange%20SMS%20message/sp1.PNG)
 
 Flag: `HnH{HilalRAT}`
