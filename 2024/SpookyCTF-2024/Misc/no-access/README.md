@@ -7,12 +7,12 @@ After inspecting the Discord server for anything suspicious, we discovered a hid
 1. **Category Name (First Part):**
    - `TklDQ3t3aFlf`
 
-![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Misc/no-access/p12.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Misc/no-access/p12.png)
 
 2. **Channel Detail (Second Part):**
    - `ZDAzU19kSVNjMFJkXzRMbDBXX3RIaVo/fQ==`
 
-![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Misc/no-access/p13.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Misc/no-access/p13.png)
 
 ### Complete Flag:
 
@@ -21,7 +21,7 @@ Combining both parts, the flag is:
 TklDQ3t3aFlfZDAzU19kSVNjMFJkXzRMbDBXX3RIaVo/fQ==
 ```
 
-![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Misc/no-access/final1.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Misc/no-access/final1.PNG)
 
 ### Final Flag Format:
 
