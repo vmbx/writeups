@@ -11,11 +11,11 @@ To solve this challenge, we utilized the following scripts:
 
 Upon running these scripts, we discovered a file named `flag.txt`. Opening this file revealed the flag.
 
-![Challenge](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/misc/git%20goo/step1.PNG)
+![Challenge](https://github.com/x03ee/CTF-Writeup/blob/main/2024/BuckeyeCTF-2024/misc/git%20goo/step1.PNG)
 
-![Flag Revealed](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/misc/git%20goo/step2.PNG)
+![Flag Revealed](https://github.com/x03ee/CTF-Writeup/blob/main/2024/BuckeyeCTF-2024/misc/git%20goo/step2.PNG)
 
-![Flag Reveal 2](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/misc/git%20goo/step3.PNG)
+![Flag Reveal 2](https://github.com/x03ee/CTF-Writeup/blob/main/2024/BuckeyeCTF-2024/misc/git%20goo/step3.PNG)
 
 ## Final Flag
 
