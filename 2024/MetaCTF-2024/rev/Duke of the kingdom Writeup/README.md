@@ -8,7 +8,7 @@ This challenge involves decoding an encoded message extracted from the `duke.cla
 1. **Decompile the Class File:**
    Use **Jadx Gui** to decompile `duke.class`. This tool will help you view the source code in a human-readable format, allowing you to locate the encoded data.
    
-![Jadx Gui](https://github.com/x03ee/MetaCTF-WriteUps/blob/main/rev/Duke%20of%20the%20kingdom%20Writeup/images/jadx%20gui.png)
+![Jadx Gui](https://github.com/x03ee/CTF-Writeup/blob/main/2024/MetaCTF-2024/rev/Duke%20of%20the%20kingdom%20Writeup/images/jadx%20gui.png)
 
 3. **Encoded Data:**
    The encoded data is provided as an integer array. Each integer represents an encoded byte value:
