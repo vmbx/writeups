@@ -1,6 +1,6 @@
 # Web - fu
 
-![Challenge](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/web/fu/challenge.PNG)
+![Challenge](https://github.com/x03ee/CTF-Writeup/blob/main/2024/BuckeyeCTF-2024/web/fu/challenge.PNG)
 
 ### Solution:
 Disabling the javascript to view source.
@@ -8,7 +8,7 @@ Disabling the javascript to view source.
 I used https://chromewebstore.google.com/detail/web-developer-tool-for-ch/ghenifimhcdihapkceohjpgiabidpgji to disable the javascript in the website after that i juse viewed source and found the flag.
 
  
-![Flag Revealed](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/web/fu/flag.PNG)
+![Flag Revealed](https://github.com/x03ee/CTF-Writeup/blob/main/2024/BuckeyeCTF-2024/web/fu/flag.PNG)
 
 ### Final Flag:
 ```
