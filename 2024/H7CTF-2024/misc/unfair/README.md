@@ -1,6 +1,6 @@
 # Misc - Unfair
 
-![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/misc/unfair/challenge.png)
+![Challenge](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/misc/unfair/challenge.png)
 
 ### Solution:
 
@@ -10,11 +10,11 @@ This is a straightforward Misc challenge.
 2. Ensure you're following the correct account.
 3. Follow the account and check their Instagram story. The flag will be revealed there.
 
-![Search](https://github.com/x03ee/H7CTF-Writeups/blob/main/misc/unfair/search.png)
+![Search](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/misc/unfair/search.png)
 
-![Profile](https://github.com/x03ee/H7CTF-Writeups/blob/main/misc/unfair/profile.png)
+![Profile](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/misc/unfair/profile.png)
 
-![Flag](https://github.com/x03ee/H7CTF-Writeups/blob/main/misc/unfair/flag.png)
+![Flag](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/misc/unfair/flag.png)
 
 ### Final Flag:
 ```
