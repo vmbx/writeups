@@ -1,4 +1,4 @@
-![image](https://github.com/x03ee/USC-CTF-2024/blob/main/crypto/unpopcorn/solve/chall.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/USC-CTF-2024/crypto/unpopcorn/solve/chall.png)
 
 We have to find out the p which we can use a wordlist that bruteforces unitll it finds the corret p then prints the flag
 
@@ -50,4 +50,4 @@ for p in range(1, m):
         print(f"Potential flag with p={p}: {flag}")
 ```
 
-![image](https://github.com/x03ee/USC-CTF-2024/blob/main/crypto/unpopcorn/solve/flag.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/USC-CTF-2024/crypto/unpopcorn/solve/flag.png)
