@@ -22,12 +22,12 @@ This challenge involves uncovering a hidden image within the provided data. By d
 
 Below are the images you will be working with:
 
-![Image 1](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/p1.PNG)
-![Image 2](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/p2.PNG)
-![Image 3](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/p3.PNG)
-![Image 4](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/p4.PNG)
-![Image 5](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/p5.PNG)
-![Image 7](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/final.PNG)
+![Image 1](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Forensic/wont-somebody-think-of-the-children/p1.PNG)
+![Image 1](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Forensic/wont-somebody-think-of-the-children/p2.PNG)
+![Image 1](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Forensic/wont-somebody-think-of-the-children/p3.PNG)
+![Image 1](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Forensic/wont-somebody-think-of-the-children/p4.PNG)
+![Image 1](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Forensic/wont-somebody-think-of-the-children/p5.PNG)
+![Image 7](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Forensic/wont-somebody-think-of-the-children/final.PNG)
 
 - Pay attention to the metadata of the decoded image files; it may give clues about the correct image.
 - Consider using tools like the `base64` command-line utility or online Base64 decoders to simplify the process.
