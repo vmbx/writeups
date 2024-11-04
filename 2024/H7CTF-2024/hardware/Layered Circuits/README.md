@@ -7,7 +7,7 @@
  
 ![Solution](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/hardware/Layered%20Circuits/reader.png)
  
-![Solution1](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/hardware/flag%20mixed.png)
+![Solution1](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/hardware/Layered%20Circuits/flag%20mixed.png)
 
 ### Final Flag:
 ```
