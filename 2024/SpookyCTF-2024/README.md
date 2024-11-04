@@ -1,1 +1,1 @@
-![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/image.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/image.PNG)
