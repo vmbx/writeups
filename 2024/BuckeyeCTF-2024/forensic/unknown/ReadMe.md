@@ -1,10 +1,10 @@
 # Forensic Challenge - unknown
-![Challenge](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/forensic/unknown/challenge.PNG)
+![Challenge](https://github.com/x03ee/CTF-Writeup/blob/main/2024/BuckeyeCTF-2024/forensic/unknown/challenge.PNG)
 
 ## Solution
 Just string the file.
 
-![Extracted PNG Flag](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/forensic/unknown/flag.PNG)
+![Extracted PNG Flag](https://github.com/x03ee/CTF-Writeup/blob/main/2024/BuckeyeCTF-2024/forensic/unknown/flag.PNG)
 
 ## Final Flag
 ```
