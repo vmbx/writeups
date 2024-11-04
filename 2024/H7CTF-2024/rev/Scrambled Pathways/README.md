@@ -1,6 +1,6 @@
 # rev - Scrambled Pathways
 
-![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/rev/Scrambled%20Pathways/challenge.png)
+![Challenge](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/rev/Scrambled%20Pathways/challenge.png)
 
 ### Solution:
 
@@ -16,7 +16,7 @@
 4. **Prints the Result:** Finally, it prints the newly formed string as the "Flag". 
 
    
-![Solution](https://github.com/x03ee/H7CTF-Writeups/blob/main/rev/Scrambled%20Pathways/flag.png)
+![Solution](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/rev/Scrambled%20Pathways/flag.png)
 
 ### Final Flag:
 ```
