@@ -1,4 +1,4 @@
-![image](https://github.com/x03ee/USC-CTF-2024/blob/main/crypto/decipherium/solve/chall.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/USC-CTF-2024/crypto/decipherium/solve/chall.png)
 ### Message:
 `TeSbILaTeSnTeNoISnTeCsCsDyICdTeIISnTeLaSbCdTeTeTeLaTeSbINoTeSbSbInICdTeBaSbSbISnIYbSbCdTeXeINoSbSbTeHoTeITeFmTeITeMdITeSbICsEr`
 
