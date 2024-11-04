@@ -19,9 +19,9 @@ The flag format is: `QUESTCON{...}`.
    - Input the encoded flag and the key you deduced.
    - Decode the flag to reveal the original text.
 
-![image](https://github.com/x03ee/QuestconCTF-2024/blob/main/Reverse/Twice%20the%20Trouble/p1.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/QuestconCTF-2024/Reverse/Twice%20the%20Trouble/p1.png)
 
-![image1](https://github.com/x03ee/QuestconCTF-2024/blob/main/Reverse/Twice%20the%20Trouble/flag.png)
+![image1](https://github.com/x03ee/CTF-Writeup/blob/main/2024/QuestconCTF-2024/Reverse/Twice%20the%20Trouble/flag.png)
 
 4. **Submit the Flag:**  
    Once decoded, the flag will be in the format `QUESTCON{doub13_troub13}`.
@@ -54,9 +54,9 @@ The flag format is: `QUESTCON{...}`.
 3. **Decode the Flag:**
    - Using the identified XOR key, decode the encrypted flag.
 
-![image2](https://github.com/x03ee/QuestconCTF-2024/blob/main/Reverse/Unlock%20the%20Encrypted%20Flag/p1.png)
+![image2](https://github.com/x03ee/CTF-Writeup/blob/main/2024/QuestconCTF-2024/Reverse/Unlock%20the%20Encrypted%20Flag/p1.png)
 
-![image3](https://github.com/x03ee/QuestconCTF-2024/blob/main/Reverse/Unlock%20the%20Encrypted%20Flag/flag.png)
+![image3](https://github.com/x03ee/CTF-Writeup/blob/main/2024/QuestconCTF-2024/Reverse/Unlock%20the%20Encrypted%20Flag/flag.png)
 
 4. **Submit the Flag:**  
    Once decoded, the flag will be in the format `QUESTCON{3ncrypt3d_f14g_r3v341}`.
@@ -79,7 +79,7 @@ The flag format is: `QUESTCON{...}`.
 2. **Decode the Base64 String:**
    - Copy the Base64 encoded string and use any online decoder, such as [Base64 Decode](https://www.base64decode.org/), to decode it.
 
-![image4](https://github.com/x03ee/QuestconCTF-2024/blob/main/Reverse/Unlock%20the%20Safe/flag.png)
+![image4](https://github.com/x03ee/CTF-Writeup/blob/main/2024/QuestconCTF-2024/Reverse/Unlock%20the%20Safe/flag.png)
 
 3. **Submit the Flag:**  
    Once decoded, the flag will be in the format `QUESTCON{pl3as3_13t_m3_1nt0_th3_saf3}`.
