@@ -8,7 +8,7 @@
   SELECT tower_id FROM Towers WHERE elevation BETWEEN 219.5 AND 220.5;
   ```
 
-![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/SkyWave/SkyWave%201/flag.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/DeadFaceCTF-2024/SkyWave/SkyWave%201/flag.png)
 
 - **Flag:** `flag{215}`
 
@@ -25,7 +25,7 @@
   WHERE dt.device_type_name IN ('smartphone', 'computer', 'tablet');
   ```
 
-![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/SkyWave/SkyWave%202/flag.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/DeadFaceCTF-2024/SkyWave/SkyWave%202/flag.png)
 
 - **Flag:** `flag{714}`
 
@@ -45,7 +45,7 @@
   ORDER BY antenna_count DESC
   LIMIT 1;
   ```
-![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/SkyWave/SkyWave%203/flag.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/DeadFaceCTF-2024/SkyWave/SkyWave%203/flag.png)
 
 - **Flag:** `flag{Multiple Input Multiple Output (MIMO) 3}`
 
@@ -62,7 +62,7 @@
   WHERE tm.tower_id = 133
   AND tm.maintenance_date = '2024-08-26';
   ```
-![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/SkyWave/SkyWave%204/flag.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/DeadFaceCTF-2024/SkyWave/SkyWave%204/flag.png)
 
 - **Flag:** `flag{T263739990}`
 
@@ -77,7 +77,7 @@
   FROM Devices
   WHERE device_id = 344;
   ```
-![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/SkyWave/SkyWave%207/flag.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/DeadFaceCTF-2024/SkyWave/SkyWave%207/flag.PNG)
 
 - **Flag:** `flag{845303290931675}`
 
@@ -92,6 +92,6 @@
   FROM Tower_Maintenance 
   WHERE maintenance_type LIKE '%update%';
   ```
-![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/SkyWave/SkyWave%209/flag.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/DeadFaceCTF-2024/SkyWave/SkyWave%209/flag.png)
 
 - **Flag:** `flag{70}`
