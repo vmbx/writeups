@@ -6,7 +6,7 @@
   2. Use the search phrase **"frame contains 'flag'"** to locate the relevant frame.
   3. Extract the flag from the identified frame.
 
-![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/Traffic%20Analysis/Data%20Breach/flag.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/DeadFaceCTF-2024/Traffic%20Analysis/Data%20Breach/flag.png)
 
 - **Flag:** `flag{Information_disclosure_in_the_head}`
 
@@ -20,6 +20,6 @@
   2. Use the search phrase **"frame contains 'flag'"** to find the correct frame.
   3. Extract the flag from the identified frame.
 
-![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/Traffic%20Analysis/Wild%20Wild%20West/flag.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/DeadFaceCTF-2024/Traffic%20Analysis/Wild%20Wild%20West/flag.png)
 
 - **Flag:** `flag{kerbrute_finding_users}`
