@@ -14,13 +14,13 @@ To retrieve the flag for this challenge, follow these steps:
 
 ### Pictures:
 
-![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Misc/Well-Met/n1.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Misc/Well-Met/n1.PNG)
 
-![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Misc/Well-Met/n2.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Misc/Well-Met/n2.PNG)
 
-![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Misc/Well-Met/n3.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Misc/Well-Met/n3.PNG)
 
-![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Misc/Well-Met/n4.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Misc/Well-Met/n4.PNG)
 
 3. Combine these segments to get the complete flag:
 
