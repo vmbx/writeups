@@ -2,7 +2,7 @@
 
 Use **Steghide** to extract hidden data from the image file.
 
-![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Stego/Phenominal-Photo/boo.jpg)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/SpookyCTF-2024/Stego/Phenominal-Photo/boo.jpg)
 
 ---
 
