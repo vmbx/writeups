@@ -1,0 +1,6 @@
+SHOW TABLES;
+DESCRIBE Towers;
+SELECT tower_id FROM Towers WHERE elevation BETWEEN 219.5 AND 220.5;
+
+
+flag{215}

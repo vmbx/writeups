@@ -1,0 +1,6 @@
+SELECT COUNT(*)
+FROM Devices d
+JOIN Device_Types dt ON d.device_type_id = dt.device_type_id
+WHERE dt.device_type_name IN ('smartphone', 'computer', 'tablet');
+
+flag{714}

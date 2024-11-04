@@ -1,0 +1,5 @@
+SELECT device_imei
+FROM Devices
+WHERE device_id = 344;
+
+flag{845303290931675}

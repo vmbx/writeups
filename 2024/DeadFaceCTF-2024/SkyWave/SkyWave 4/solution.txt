@@ -1,0 +1,7 @@
+SELECT t.employee_number
+FROM Tower_Maintenance tm
+JOIN Technicians t ON tm.technician_id = t.technician_id
+WHERE tm.tower_id = 133
+AND tm.maintenance_date = '2024-08-26';
+
+flag{T263739990}

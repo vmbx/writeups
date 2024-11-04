@@ -1,0 +1,10 @@
+SELECT a.antenna_name, COUNT(*) AS antenna_count
+FROM Towers t
+JOIN Tower_Sectors ts ON t.tower_id = ts.tower_id
+JOIN Antennas a ON ts.antenna_id = a.antenna_id
+WHERE t.operator_id = 4  -- Florian Olyff's operator_id
+GROUP BY a.antenna_name
+ORDER BY antenna_count DESC
+LIMIT 1;
+
+flag{Multiple Input Multiple Output (MIMO) 3}
