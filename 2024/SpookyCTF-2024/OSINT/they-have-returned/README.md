@@ -1,7 +1,3 @@
-Here’s an improved, more concise version:
-
----
-
 ### **Mission:** "They Have Returned"
 
 A secret permission has been discovered. Your task:
