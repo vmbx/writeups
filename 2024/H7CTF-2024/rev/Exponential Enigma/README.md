@@ -1,6 +1,6 @@
 # rev - Exponential Enigma
 
-![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/rev/Exponential%20Enigma/challenge.png)
+![Challenge](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/rev/Exponential%20Enigma/challenge.png)
 
 ### Solution:
 
@@ -22,7 +22,7 @@
 4. **Output**:
    - Finally, the decoded message is printed out, revealing the hidden information from the original hexadecimal string.
 
-![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/rev/Exponential%20Enigma/flag.png)
+![Challenge](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/rev/Exponential%20Enigma/flag.png)
 
 ### Final Flag:
 ```
