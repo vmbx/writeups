@@ -1,6 +1,6 @@
-|                       CTF                        |
-|--------------------------------------------------|
-| [USC CTF](https://usc.ctfd.io/)                  | 
+|                       CTF                        |                     WRITEUPS                    |
+|--------------------------------------------------|-------------------------------------------------|
+| [USC CTF](https://usc.ctfd.io/)                  |         [USC CTF](https://usc.ctfd.io/)         |
 | [Hackers N'Hops](https://hackersnhops.ctfd.io/)  |
 | [SpookyCTF](https://spookyctf.ctfd.io/)          |
 | [QuestconCTF](https://questcon.ctfd.io/)         |  
