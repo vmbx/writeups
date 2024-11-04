@@ -1,6 +1,6 @@
 # Web Challenge - No Paste
 
-![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/web/No%20Paste/challenge.png)
+![Challenge](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/web/No%20Paste/challenge.png)
 
 ### Challenge Overview:
 In this challenge, the objective was to find a way to bypass a restriction on the web page that prevented users from pasting inputs. This restriction hinted at the need to examine the website’s source code for potential vulnerabilities or clues.
@@ -21,8 +21,8 @@ This hardcoded value, `bypass123`, seemed to be the key to bypassing the input v
 ### Solution Execution:
 After finding the suspicious string, I returned to the web form and manually entered `bypass123` into the input field. Upon submitting the form, the page responded successfully and revealed the hidden flag.
 
-![Solution](https://github.com/x03ee/H7CTF-Writeups/blob/main/web/No%20Paste/solution.png)  
-![Solution1](https://github.com/x03ee/H7CTF-Writeups/blob/main/web/No%20Paste/solution1.png)
+![Solution](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/web/No%20Paste/solution.png)  
+![Solution1](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/web/No%20Paste/solution1.png)
 
 ### Final Flag:
 ```
