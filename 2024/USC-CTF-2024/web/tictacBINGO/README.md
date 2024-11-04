@@ -1,4 +1,4 @@
-![image](https://github.com/x03ee/USC-CTF-2024/blob/main/web/tictacBINGO/solve/chall.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/USC-CTF-2024/web/tictacBINGO/solve/chall.png)
 
 Made a javascript that clicks all the boxes as fast as possible to trigger the computer player.
 
@@ -44,4 +44,4 @@ document.addEventListener('keydown', (event) => {
 });
 ```
 
-![image](https://github.com/x03ee/USC-CTF-2024/blob/main/web/tictacBINGO/solve/flag.png)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/USC-CTF-2024/web/tictacBINGO/solve/flag.png)
