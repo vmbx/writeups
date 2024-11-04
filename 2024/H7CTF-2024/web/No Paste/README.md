@@ -29,4 +29,4 @@ After finding the suspicious string, I returned to the web form and manually ent
 H7CTF{h@ck_th3_sy$t3m}
 ```
 
-![Flag](https://github.com/x03ee/H7CTF-Writeups/blob/main/web/No%20Paste/flag.png)
+![Flag](https://github.com/x03ee/CTF-Writeup/blob/main/2024/H7CTF-2024/web/No%20Paste/flag.png)
