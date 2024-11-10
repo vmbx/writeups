@@ -38,7 +38,7 @@
 7. **Access the Admin Page**:  
    With the updated JWT cookie, go to [https://cookie.cruxipher.crux-bphc.com/admin](https://cookie.cruxipher.crux-bphc.com/admin).
 
-![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/5.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/s5.PNG)
 
 8. **Retrieve the Flag**:  
    On the admin page, you’ll find the flag:
