@@ -1,4 +1,4 @@
-![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/s11.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/src/s11.PNG)
 
 1. **Go to the URL**:  
    Visit [https://cookie.cruxipher.crux-bphc.com](https://cookie.cruxipher.crux-bphc.com).
@@ -9,7 +9,7 @@
    <!-- test test@123 -->
    ```
    
-![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/s1.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/src/s1.PNG)
 
 3. **Initial Credentials**:
    - **Username**: test
@@ -20,12 +20,12 @@
    ```text
    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGVzdCJ9.2bZHkT6VgGqelPzmQGEU8nLetZsvhkVV42bP2ybhi-Q
    ```
-   ![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/s2.PNG)
+   ![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/src/s2.PNG)
 
 5. **Modify the Username**:  
    Change the username in the JWT cookie from `test` to `admin`.
 
-![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/s3.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/src/s3.PNG)
 
 6. **Updated JWT Cookie**:  
    After modifying the cookie, the new JWT becomes:
@@ -33,12 +33,12 @@
    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiYWRtaW4ifQ.xLtLdUxXsGB7EqP49a8xQziqpjkVKeJ9o2nix4xLf5M
    ```
 
-   ![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/s4.PNG)
+   ![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/src/s4.PNG)
 
 7. **Access the Admin Page**:  
    With the updated JWT cookie, go to [https://cookie.cruxipher.crux-bphc.com/admin](https://cookie.cruxipher.crux-bphc.com/admin).
 
-![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/s5.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/cruXipher-2024/Web/Cookie/src/s5.PNG)
 
 8. **Retrieve the Flag**:  
    On the admin page, you’ll find the flag:
