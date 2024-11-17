@@ -65,4 +65,4 @@ ZDRfYzdm
 
 Decode Base64 : `d4_c7f`
 
-### Final Flag : `INTIGRITI{h0p3_y0u_3nj0y_d4_c7f}
+### Final Flag : `INTIGRITI{h0p3_y0u_3nj0y_d4_c7f}`
