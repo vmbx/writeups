@@ -75,4 +75,4 @@ for a_order in a_orders:
             reconstructed_image.save("final_reconstructed.png")
             break
 ```
-
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2024/1337CTF-2024/misc/Quick%20Recovery/final_reconstructed.png)
