@@ -1,0 +1,1 @@
+Decoded Flag: TSC{c14551c5_c1ph3r5_4r5_fr4g17e}
