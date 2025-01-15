@@ -7,5 +7,6 @@ Identify three images that contain a hidden secret and figure out how to break i
 Modifying the function from jnz to jz to negate the false condition.
 ![iamge](https://github.com/x03ee/CTF-Writeup/blob/main/2025/TSCCTF%202025/Reverse/Meoware/Ida.PNG)
 
-Output:
+### Output:
+
 ![iamge](https://github.com/x03ee/CTF-Writeup/blob/main/2025/TSCCTF%202025/Reverse/Meoware/Flag.PNG)
