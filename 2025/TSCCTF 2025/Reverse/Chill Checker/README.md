@@ -1,4 +1,3 @@
-I found the whispercode.  
 ![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/TSCCTF%202025/Reverse/Chill%20Checker/Chall.PNG)
 
 I found the whispercode.  
