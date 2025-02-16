@@ -3,7 +3,7 @@
 `steghide extract -sf myBirb.jpg` wrote extracted data to "birb.csv".
 
 
-Anything within the R collom / MSG 6. 
+Anything within the R column / MSG 6. 
 ![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/BroncoCTF/Misc/It's%20a%20Bird/image.png)
 
 ```py
