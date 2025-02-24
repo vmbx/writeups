@@ -106,9 +106,8 @@ plt.savefig("output.png", dpi=300)
 # Forensic
 
 ### Memories Bring Back You
-`
-grep -ra "KashiCTF" <file location>
-`
+`grep -ra "KashiCTF" <file location>`
+
 ```
 �]h��D�A7���0x\K��dk��K��dk��K��dk��K��dk���`�`HK��dk��
 image_410.jpg�H�@�
@@ -126,7 +125,8 @@ image_418.jpg�H�@�;yN;yNJ��ְ����J�GFILE02������
                                                                             F�dk��
                                                                                   F�dk��
                                                                                         F�dk��
-image_421.jpg�H�@�(x�(x�(2�]��X8not_hidden.txtKashiCTF{DF1R_g03555_Brrrr}```
+image_421.jpg�H�@�(x�(x�(2�]��X8not_hidden.txtKashiCTF{DF1R_g03555_Brrrr}
+```
 
 
 `KashiCTF{DF1R_g03555_Brrrr}`
