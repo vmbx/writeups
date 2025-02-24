@@ -145,7 +145,7 @@ Use silent eye and decrypt the image and get the flag.
 
 ### SuperFastAPI
 
-http://kashictf.iitbhucybersec.in:<port>/redoc - Document of all the headers.
+`http://kashictf.iitbhucybersec.in:<port>/redoc` - Document of all the headers.
 
 ```
 1. Create an account `http://kashictf.iitbhucybersec.in:<port>/register/test
