@@ -148,8 +148,8 @@ Use silent eye and decrypt the image and get the flag.
 http://kashictf.iitbhucybersec.in:<port>/redoc - Document of all the headers.
 
 ```
-1. Create an account `http://kashictf.iitbhucybersec.in:<port>/register/test`
-
+1. Create an account `http://kashictf.iitbhucybersec.in:<port>/register/test
+```
 add 
 ```
 {
@@ -157,7 +157,8 @@ add
 "lname": "Doe",
 "email": "john.doe@example.com",
 "gender": "male"
-}```
+}
+```
 
 2. Update the role since it asks for admin when changing register to flag.
 
