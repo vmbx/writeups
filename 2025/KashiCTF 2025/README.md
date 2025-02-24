@@ -28,7 +28,7 @@ https://mysterytoolbox.organisingchaos.com/Ciphers/cipher/Moo
 
 ### Self Destruct
 
-``grep -hnra fLaG 0.img```
+`grep -hnra fLaG 0.img`
 
 `KashiCTF{rm_rf_no_preserve_root_Am_1_Right??_No_Err0rs_4ll0wed_Th0}`
 
