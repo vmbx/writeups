@@ -117,6 +117,42 @@ plt.savefig("output.png", dpi=300)
 
 # Forensic
 
+### Restaurant
+
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/DOvI7gb.png)
+
+Inputing the jpg into hxd we identify at the verify bottom encrypted text in **Bacon cipher**.
+
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/WFyjPx6.png)
+
+We input the encrypted text and get an output of "THEYWEREREALLLLYCOOKIN"
+
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/KEc7JK8.png)
+
+`KashiCTF{THEYWEREREALLLLYCOOKIN}`
+
+### Do Not Redeem #1
+
+Uh oh, we're in trouble again. Kitler's Amazon Pay wallet got emptied by some scammer. Can you figure out the OTP sent to kitler right before that happened, as well as the time (unix timestamp in milliseconds) at which kitler received that OTP? Flag format: KashiCTF{OTP_TIMESTAMP}, i.e. KashiCTF{XXXXXX_XXXXXXXXXXXXX}
+
+### Solution
+
+Writeup author: pseudonymous
+
+## Do Not Redeem #1
+
+* sms's are stored in a database known as 'mmssms.db'
+* the directory wheres its stored is `kitler's-phone/data/data/com.android.providers.telephony/databases`
+
+* upon opening ./mmssms.db in sqlitebrowser, in data -> sms
+* data -> `839216 is your Amazon OTP. Don't share it with anyone.` timestamp -> `1740251608654`
+
+* ![alt text](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/d9d0Xqp.png)
+
+* wraping it around KashiCTF{otp_timestamp} gave the flag.
+
+Flag: `KashiCTF{839216_1740251608654}`
+
 ### Memories Bring Back You
 
 ![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Mem.PNG)
