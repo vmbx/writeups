@@ -2,6 +2,8 @@
 
 ### Easy Jail 
 
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/EasyJail.PNG)
+
 ```
 breakpoint()
 import os; os.system("sh")
@@ -10,6 +12,8 @@ cd / && cat flag.txt
 
 ### Easy Jail 2 
 
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/EasyJail2.PNG)
+
 ```
 breakpoint()
 import os; os.system("sh")
@@ -17,6 +21,8 @@ cd / && cat flag.txt
 ```
 
 ### SNOWy Evening
+
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Snow.PNG)
 
 `stegsnow -C -p "Aakash" poemm.txt`
 
@@ -27,6 +33,8 @@ https://mysterytoolbox.organisingchaos.com/Ciphers/cipher/Moo
 `KashiCTF{Love_Hurts_5734b5f}`
 
 ### Self Destruct
+
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Distruct.PNG)
 
 `grep -hnra fLaG 0.img`
 
