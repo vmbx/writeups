@@ -180,7 +180,11 @@ add
 }
 ```
 
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Super1.PNG)
+
 2. Update the role since it asks for admin when changing register to flag.
+
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Super2.PNG)
 
 `http://kashictf.iitbhucybersec.in:<port>/update/test`
 
@@ -191,6 +195,7 @@ include
   "role": "admin"
 }
 ```
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Super3.PNG)
 
 3. Head to `http://kashictf.iitbhucybersec.in:<port>/flag/test`
 
