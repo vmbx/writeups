@@ -34,7 +34,7 @@ https://mysterytoolbox.organisingchaos.com/Ciphers/cipher/Moo
 
 ### Self Destruct
 
-![image](]https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Destruct.PNG)
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Destruct.PNG)
 
 `grep -hnra fLaG 0.img`
 
