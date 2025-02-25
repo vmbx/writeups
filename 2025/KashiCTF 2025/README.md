@@ -34,7 +34,7 @@ https://mysterytoolbox.organisingchaos.com/Ciphers/cipher/Moo
 
 ### Self Destruct
 
-![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Distruct.PNG)
+![image](]https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Destruct.PNG)
 
 `grep -hnra fLaG 0.img`
 
@@ -42,11 +42,15 @@ https://mysterytoolbox.organisingchaos.com/Ciphers/cipher/Moo
 
 ### Final Game?
 
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/final.PNG)
+
 Exporting the chess and we can use https://incoherency.co.uk/chess-steg/ to decrypt the data.
 
 `KashiCTF{Will_This_Be_My_Last_Game_e94fab41}`
 
 ### Game 2 - Wait
+
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Game2.PNG)
 
 We identify coordnets  within the program, and we can create a script to decrypt them to potentialy form an image as the flag.
 
@@ -114,6 +118,9 @@ plt.savefig("output.png", dpi=300)
 # Forensic
 
 ### Memories Bring Back You
+
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/Mem.PNG)
+
 `grep -ra "KashiCTF" <file location>`
 
 ```
@@ -141,10 +148,14 @@ image_421.jpg�H�@�(x�(x�(2�]��X8not_hidden.txtKashiCTF{DF1R_g035
 
 ### Corruption
 
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/curr.PNG)
+
 using Autopsy we can search "KashiCTF" and we get the flag.
 
 
 ### Look at Me
+
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/look.PNG)
 
 Use silent eye and decrypt the image and get the flag.
 
@@ -152,6 +163,8 @@ Use silent eye and decrypt the image and get the flag.
 # Web
 
 ### SuperFastAPI
+
+![image](https://github.com/x03ee/CTF-Writeup/blob/main/2025/KashiCTF%202025/img/super.PNG)
 
 `http://kashictf.iitbhucybersec.in:<port>/redoc` - Document of all the headers.
 
