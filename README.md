@@ -1,2 +1,0 @@
-### RANDOM CTF WRITEUPS
-
