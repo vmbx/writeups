@@ -51,7 +51,7 @@ This time, instead of a losing screen, the game revealed the **flag**, confirmin
 
 ![Flag Captured](https://github.com/vmbx/CTF-Writeup/blob/main/2025/BCACTF%206.0/images/flag.png)
 
-### FLAG : `bcactf{mEgaLoDOn}`
+### **FLAG :** `bcactf{mEgaLoDOn}`
 
 The Nitro Nexus game engine loads the file named `level1` as the starting point, regardless of its original identity. By iteratively renaming levels and observing outcomes, we successfully identified the final level containing the flag. This approach showcases a simple yet effective exploitation of a game’s dynamic content loading mechanism.
 
