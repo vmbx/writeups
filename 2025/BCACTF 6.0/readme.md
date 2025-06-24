@@ -12,6 +12,7 @@ Challenge builds are available [here](https://drive.google.com/drive/folders/1L3
 
 The method computes a level 2 collation weight for a Unicode character by handling special extender cases, using custom tables for CJK characters, falling back to default values if needed, and optionally remapping the result for cultural accuracy like a “game over” level screen where all character comparison rules are finalized and locked in for precise sorting.
 
+![Main Menu](https://github.com/vmbx/CTF-Writeup/blob/main/2025/BCACTF%206.0/images/dn.png)
 
 ---
 
