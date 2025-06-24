@@ -2,7 +2,7 @@
 
 ### Challenge Overview
 
-> *"I couldn’t afford the new Mario Kart game, so my friend gave me a copy of Nitro Nexus — a very buggy alternative. I’m usually great at racing games, but there’s just one problem… I can’t get past the first level."*
+*"I couldn’t afford the new Mario Kart game, so my friend gave me a copy of Nitro Nexus — a very buggy alternative. I’m usually great at racing games, but there’s just one problem… I can’t get past the first level."*
 
 Challenge builds are available [here](https://drive.google.com/drive/folders/1L39C3J49w4awgTqAO-UCdICT79UQ_9WK).
 
@@ -38,7 +38,8 @@ Following this logic:
 
 1. **Original setup**:
 
-   * `level1` → Main menu
+   * `level0` → Main menu
+   * `level1` → Play game
    * `level2` → Game over screen
    * `level3` → Flag
 
