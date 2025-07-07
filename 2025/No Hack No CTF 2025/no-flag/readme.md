@@ -3,7 +3,7 @@
 Nothing much, just a photo of a cat.
 ```
 
-![unicode stegano tool](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/no-flag/p1.png)
+![unicode stegano tool](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/no-flag/blood.png)
 
 But let's dig deeper...
 
