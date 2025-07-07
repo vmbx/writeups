@@ -17,7 +17,7 @@ Navigating to the repository’s [activity page](https://github.com/UmmItC/gitgi
 By examining the following commit comparison:
 [Compare Commits](https://github.com/UmmItC/gitgit/compare/d0fe54d3fccf7345555da3e791f5415e8875ac01...5dd233465d64bebed5b8755e5e081fe0653e0b9b),
 
-![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/no-flag/p1.png)
+![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/git-git/git.png)
 
 we uncover the flag:
 
