@@ -8,6 +8,10 @@ Sepolia test net, address: 0x9C71c90140162a5BAE7159Ec5CC4C86FAddCBfb6
 
 https://sepolia.etherscan.io/address/0x9C71c90140162a5BAE7159Ec5CC4C86FAddCBfb6
 
+![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/blockchain-ciphers-sercret/se.png)
+
+![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/blockchain-ciphers-sercret/con.png)
+
 
 ```py
 def extract_flag_from_bytecode(bytecode: str) -> str:
