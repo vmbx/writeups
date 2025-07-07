@@ -14,13 +14,13 @@ StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
 ```
 `https://youtu.be/KLUeLae4y6k?t=11 ‌` Identified ` ` byte, which stores the flag.
 
-![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/blockchain-ciphers-sercret/se.png)
+![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/no-flag/p1.png)
 
-![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/blockchain-ciphers-sercret/se.png)
+![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/no-flag/p2.png)
 
-![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/blockchain-ciphers-sercret/se.png)
+![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/no-flag/p3.png)
 ​
-![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/blockchain-ciphers-sercret/se.png)
+![image](https://github.com/vmbx/CTF-Writeup/blob/main/2025/No%20Hack%20No%20CTF%202025/no-flag/p4.png)
 
 `‌‌``py
 hex_data = bytes.fromhex(
