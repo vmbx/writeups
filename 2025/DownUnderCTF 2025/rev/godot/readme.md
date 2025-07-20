@@ -1,32 +1,29 @@
-### godot - reverse
+# DUCTF 2025 — Godot Reverse Challenge Writeup
 ```
 Vladimir and Estragon converse on various topics while they wait for a man named Godot. While they wait, Pozzo is on his way to the market to sell his slave, Lucky.
 ```
 
-Absolutely! Here’s your enhanced write-up formatted nicely for a `README.md` file on GitHub, using Markdown syntax:
+### Files provided
 
-
-
-We are given two files:  
 - `ductf_2025_godot_encrypted.exe`  
 - `ductf_2025_godot_encrypted.pck`
 
 ---
 
-## Overview
+### Initial research
 
-After some research into Godot's engine internals, I discovered a method to extract the encrypted key embedded in the program’s bytecode. A helpful guide can be found here:  
-[YouTube Tutorial](https://www.youtube.com/watch?v=fWjuFmYGoSY)
+After looking into Godot, I found a way to extract the encrypted key from the program’s bytes. This video helped a lot:  
+https://www.youtube.com/watch?v=fWjuFmYGoSY
 
-By following the steps, the encrypted key is revealed as a series of hexadecimal bytes. Using the tool [gdsdecomp](https://github.com/GDRETools/gdsdecomp), we can input the encrypted key along with the executable to decompile the game scripts.  
+Following the steps, the encrypted key showed up as hex bytes. Using the tool [gdsdecomp](https://github.com/GDRETools/gdsdecomp), I input the encrypted key along with the executable to decompile the game scripts.  
 
-Next, by installing Godot Engine, we can import the extracted game files and analyze the project directly.
+After that, I installed Godot Engine and imported the game files to explore the project.
 
 ---
 
-## Analyzing the Game Files
+### Game analysis
 
-Upon inspecting the imported Godot project, we discovered a shop mechanic that appears to have a timer-based unlock system. Below is the relevant GDScript code snippet:
+Inside the game files, there’s a shop with a timer for unlocking. Here’s a snippet from the script:
 
 ```gdscript
 extends Area2D
@@ -53,18 +50,19 @@ func _on_body_exited(body: Node2D) -> void:
 
 ---
 
-## Exploit and Capture the Flag
+### How to get the flag
 
-By playing the game and entering the shop area, we noticed that double-pressing the `E` key teleports the player directly to the flag’s location.
+While playing, I went to the shop and found that pressing the `E` key twice quickly teleports you straight to the flag location.
 
-![flag location](https://github.com/vmbx/writeups/blob/main/2025/DownUnderCTF%202025/rev/godot/flag_go.png)
+![flag](https://github.com/vmbx/writeups/blob/main/2025/DownUnderCTF%202025/rev/godot/flag_go.png)
 
 ---
 
-## Summary
+### Summary
 
-* Extracted encrypted key via bytecode inspection
+* Extracted the encrypted key by analyzing the binary
 * Used `gdsdecomp` to decompile Godot scripts
-* Imported game project into Godot Engine
-* Analyzed shop system and bypassed timer by double-pressing a key
-* Teleported to flag location and captured the flag
+* Imported the project in Godot Engine for deeper inspection
+* Found a shop with a timer lock in the code
+* Double pressing `E` teleports to the flag and completes the challenge
+
