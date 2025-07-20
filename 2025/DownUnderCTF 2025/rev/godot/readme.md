@@ -83,7 +83,7 @@ func _on_body_exited(body: Node2D) -> void:
 
 While playing, I went to the shop and found that pressing the `E` key twice quickly teleports you straight to the flag location.
 
-![flag](https://github.com/vmbx/writeups/blob/main/2025/DownUnderCTF%202025/rev/godot/goflag.png)
+![flag](https://github.com/vmbx/writeups/blob/main/2025/DownUnderCTF%202025/rev/godot/images/goflag.png)
 
 ---
 
