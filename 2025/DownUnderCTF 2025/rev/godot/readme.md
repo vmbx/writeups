@@ -15,7 +15,12 @@ Vladimir and Estragon converse on various topics while they wait for a man named
 After looking into Godot, I found a way to extract the encrypted key from the program’s bytes. This video helped a lot:  
 https://www.youtube.com/watch?v=fWjuFmYGoSY
 
+Firstly lookup in strings "Condition \"fae.is_null()\" is true. Returning: false", and select length 52. After wait until anylsis is fully complete. Open the function with decompile and look for `uVar1 = (&DAT_143f78540)[lVar9];`, the encryption key is inside "DAT_143f78540". After we can copy the hex bytes.
+`52d066de1115fc479e53fcf821715ad7db73e12df7e557833712136b4ff7529e`. 
+
 Following the steps, the encrypted key showed up as hex bytes. Using the tool [gdsdecomp](https://github.com/GDRETools/gdsdecomp), I input the encrypted key along with the executable to decompile the game scripts.  
+
+
 
 After that, I installed Godot Engine and imported the game files to explore the project.
 
