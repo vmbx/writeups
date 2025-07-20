@@ -36,3 +36,5 @@ func _on_body_exited(body: Node2D) -> void:
 ```
 
 After we play the game and head to the shop and double pressing e, we teleport to the flag location.
+
+![flag](https://github.com/vmbx/writeups/blob/main/2025/DownUnderCTF%202025/rev/godot/flag_go.png)
