@@ -105,11 +105,10 @@ Output:
 ```python
 Decrypted: flag{des4eva}
 ```
+After inputting this flag, we proceed to the final stage of the challenge.
+![image](https://github.com/vmbx/writeups/blob/main/2025/DownUnderCTF%202025/misc/YoDawg/images/yo7.png)
 
 ### Next Step:
-
-After inputting this flag, we proceed to the final stage of the challenge.
-![image](https://github.com/vmbx/writeups/blob/main/2025/DownUnderCTF%202025/misc/YoDawg/images/yo5.png)
 
 ![image](https://github.com/vmbx/writeups/blob/main/2025/DownUnderCTF%202025/misc/YoDawg/images/yo6.png)
 
