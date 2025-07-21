@@ -131,6 +131,6 @@ plaintext = plaintext[:-pad_len]
 
 print(plaintext.decode())
 ```
-```c
+```py
 Here's the final flag: DUCTF{1995_to_2025}
 ```
