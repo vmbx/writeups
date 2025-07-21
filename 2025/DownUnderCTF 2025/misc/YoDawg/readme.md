@@ -53,33 +53,33 @@ Viewing source of Form3, we spot message box, `C0RR3CT`. The string `vjN5+ZTZgMG
 ```
 We can identify `aes.Key = this.aesKey;	aes.IV = this.aesIV;`. In the Form.
 ```c
-			this.g = false;
-			this.h = false;
-			this.i = false;
-			this.flagstart = "DUCTF{";
-			this.flagmiddle1 = "v398mvaUv==";
-			this.flagmiddle2 = "_never";
-			this.flagmiddle3 = "_oldschool";
-			this.flagmiddle4 = "miMIdmav39av827NAfm2";
-			this.flagmiddle5 = "_shoutout";
-			this.flagmiddle6 = "_ready";
-			this.flagmiddle7 = "_end";
-			this.flagmiddle8 = "_trim";
-			this.flagmiddle9 = "0123456789DUCTF!";
-			this.flagmiddle10 = "0987654321DUCTF!";
-			this.flagmiddle11 = "qwertyuiopasdfghjklzxcvbnmNOSURF";
-			this.flagmiddle12 = "NOSURFqwertyuiopasdfghjklzxcvbnm";
-			this.flagmiddle13 = "PADDING";
-			this.flagmiddle14 = "_hackers";
-			this.flagmiddle15 = "_jolt";
-			this.flagmiddle16 = "bmV2ZXJnb25uYWdpdmV5b3V1cA==";
-			this.flagend = "}";
-			this.aesKey = Encoding.UTF8.GetBytes(this.flagmiddle11);
-			this.aesIV = Encoding.UTF8.GetBytes(this.flagmiddle9);
+this.g = false;
+this.h = false;
+this.i = false;
+this.flagstart = "DUCTF{";
+this.flagmiddle1 = "v398mvaUv==";
+this.flagmiddle2 = "_never";
+this.flagmiddle3 = "_oldschool";
+this.flagmiddle4 = "miMIdmav39av827NAfm2";
+this.flagmiddle5 = "_shoutout";
+this.flagmiddle6 = "_ready";
+this.flagmiddle7 = "_end";
+this.flagmiddle8 = "_trim";
+this.flagmiddle9 = "0123456789DUCTF!";
+this.flagmiddle10 = "0987654321DUCTF!";
+this.flagmiddle11 = "qwertyuiopasdfghjklzxcvbnmNOSURF";
+this.flagmiddle12 = "NOSURFqwertyuiopasdfghjklzxcvbnm";
+this.flagmiddle13 = "PADDING";
+this.flagmiddle14 = "_hackers";
+this.flagmiddle15 = "_jolt";
+this.flagmiddle16 = "bmV2ZXJnb25uYWdpdmV5b3V1cA==";
+this.flagend = "}";
+this.aesKey = Encoding.UTF8.GetBytes(this.flagmiddle11);
+this.aesIV = Encoding.UTF8.GetBytes(this.flagmiddle9);
 ```
 ```c
-			this.aesKey = Encoding.UTF8.GetBytes(this.flagmiddle11);
-			this.aesIV = Encoding.UTF8.GetBytes(this.flagmiddle9);
+this.aesKey = Encoding.UTF8.GetBytes(this.flagmiddle11);
+this.aesIV = Encoding.UTF8.GetBytes(this.flagmiddle9);
 ```
 ### After:
 ```c
