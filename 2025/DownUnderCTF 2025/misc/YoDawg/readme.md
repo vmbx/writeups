@@ -119,7 +119,7 @@ import base64
 
 cipher_b64 = 'UDR6b0hwIOkbJ90U/dYB3iSF5iQ50Ci1b+T+YCQPJA3pl9IFtyJFrCWfB1szPlKy5EdvDb029rZ7w2gUAcSJiQ=='
 key = b'hack\x00\x00\x00\x00'
-iv = b'\x00' * 8  # Default IV (nulls)
+iv = b'\x00' * 8
 
 ciphertext = base64.b64decode(cipher_b64)
 cipher = DES.new(key, DES.MODE_CBC, iv)
